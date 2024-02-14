@@ -1,0 +1,11 @@
+{
+  "name": "qubika_cypress",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress run"
+  },
+  "devDependencies": {
+    "cypress": "^13.6.4"
+  }
+}
