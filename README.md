@@ -15,5 +15,10 @@
 ```
 
 ```
+yarn cypress install
+```
+
+
+```
 yarn test
 ```
